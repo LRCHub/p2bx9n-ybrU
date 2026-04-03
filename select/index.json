@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "secret base ～君がくれたもの～",
   "base_artist": "ZONE",
-  "createdAt": "2026-03-05T19:36:23.397154Z",
+  "createdAt": "2026-04-03T05:26:22.899666Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,15 @@
       "artist": "ZONE",
       "has_synced": false,
       "path": "select/pl_01_secret_base_~君がくれたもの~_ZONE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "secret base ～君がくれたもの～",
+      "artist": "ZONE",
+      "has_synced": true,
+      "path": "select/localdb_01_secret_base_~君がくれたもの~_ZONE.lrc",
+      "repo_name": "p2bx9n-ybrU"
     }
   ]
 }
